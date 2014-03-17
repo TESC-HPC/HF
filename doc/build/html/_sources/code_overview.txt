@@ -11,5 +11,5 @@ Code Overview
 
 Code Overview
 
-Hirsch-Fye was originally built by Maek Jarrel and collaborators from University of Cincinati.
-Code is originally built in Fortran. Parts of the code have ben rewritten in cuda to speed up the computation.
+Hirsch-Fye was originally built by Mark Jarrel and collaborators from University of Cincinnati.
+Code is originally built in Fortran. Parts of the code have been rewritten in CUDA to speed up the computation.

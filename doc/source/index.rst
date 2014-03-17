@@ -1,19 +1,21 @@
-.. Hirsch-Fye documentation master file, created by
-   sphinx-quickstart on Thu Mar  6 08:51:55 2014.
+.. sample documentation master file, created by
+   sphinx-quickstart on Mon Mar 10 14:00:40 2014.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Hirsch-Fye's documentation
-==========================
+Hirsch-Fye documentation!
+==================================
 
-Contents:
+Contents
 
 .. toctree::
-   :maxdepth: 0
-
-   introduction
-   code_overview
-   tutorial
-   
+ 
+ What is Hirsch-Fye <intro>
+ Code overview <code>
+ Installation  <install>
+ Example <example>
+ License <license>
+ Citation <citation>
+ Presentations <presentations>          
 
 
